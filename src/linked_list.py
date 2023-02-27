@@ -40,9 +40,4 @@ class LinkedList:
         new_node.next = prev.next
         prev.next = new_node
 
-    def add_at_tail(self, new_data):
-        """
-        Function to add a new node at tail of linked list
-        :param new_data:
-        :return:
-        """
+
